@@ -7,7 +7,7 @@ The app has options for multiple future features, however that all depends on fe
   <a href="https://www.youtube.com/watch?v=-io-9ec6zdU&"><img src="https://github.com/pranavdg1997/fatafat-cover-letter/blob/main/screenshot.JPG" alt="IMAGE ALT TEXT"></a>
 </div>
 
-# Step-by-step
+## Step-by-step setup
 Clone the repository, then proceed to install the requirements with - 
 ```sh
 pip install -r requirements.txt
@@ -29,12 +29,19 @@ Open a terminal and run the following command inside the directory of the repo. 
 ```sh
 streamlit run cover_letter_app.py
 ```
-# Usage
+## Usage
  - As per the video, enter company name and profile in the appropriate boxes, press on the button and your new cover letter will be saved to destination as per the config file settings.
  - Please try to build your cover letter based on the template from the sample, it will easier to read.
  - You may need to adjust slider so that the original text and text to be replaced is the same, except for the company_name & profile.
  - When not using the app, you can refer to the history csv file anytime you need to check your previous applications, it will updated constantly every time you use the app.
 
+## Possible future features
+I though various features that can be added, since the current ones seem pretty basic. However anything I could think of became too specific and only applicable for certain cases. Some of these are - 
+ - Customize which paragraphs to include or not
+ - Copy elements to clipbaord
+ - upload/download cover letter instead of using config file
+ - Pipe in key words
+ - Similar tool for Resume(will be lot of work though)
 
 Please let me know of any issues and contact me on pgujarat@iu.edu for any feedback/suggestions.
 
