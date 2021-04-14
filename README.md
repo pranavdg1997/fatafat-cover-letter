@@ -36,9 +36,9 @@ streamlit run cover_letter_app.py
  - When not using the app, you can refer to the history csv file anytime you need to check your previous applications, it will updated constantly every time you use the app.
 
 ## Possible future features
-I though various features that can be added, since the current ones seem pretty basic. However anything I could think of became too specific and only applicable for certain cases. Some of these are - 
+I thought about various features that can be added, since the current ones seem pretty basic. However anything I could think of became too user specific and only applicable for certain cases. Some of these are - 
  - Customize which paragraphs to include or not
- - Copy elements to clipbaord (basically you can pre-set different elements to directly copy to your clipboard wit a single click)
+ - Copy elements to clipbaord (basically you can pre-set different elements to directly copy to your clipboard with a single click)
  - upload/download cover letter instead of using config file
  - Pipe in key words
  - Similar tool for Resume(will be lot of work though)
