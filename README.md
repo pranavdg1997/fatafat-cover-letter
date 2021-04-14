@@ -25,7 +25,14 @@ output_filepath: '/Cover_Letter_Sample_op.docx'
 history_file: 'sample_history.csv'
 replace_text: "I am writing regarding the {1} opportunity at {0}. I am due for graduation in May 2021 with a Master's in Data science from XYZ University. As a candidate with over 2 years of experience in the field, as well as a skill-set coherent with the requirements, I believe myself to be a suitable candidate and submit my application for review."
 ```
-Open a terminal and run the following command inside the directory of the repo. Your app should be running.\
+Open a terminal and run the following command inside the directory of the repo. Your app should start running in your browser.\
+```sh
+streamlit run cover_letter_app.py
+```
+# Usage
+ - As per the video, enter company name and profile in the appropriate boxes, press on the button and your new cover letter will be saved to destination as per the config file settings.
+ - Please try to build your cover letter based on the template from the sample, it will easier to read.
+ - You may need to adjust slider so that the original text and text to be replaced is the same, except for the company_name & profile.
 
 
 Please let me know of any issues and contact me on pgujarat@iu.edu for any feedback/suggestions.
