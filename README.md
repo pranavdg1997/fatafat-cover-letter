@@ -4,7 +4,7 @@ You can also keep track of the companies you have applied so far with timestamp 
 The app has options for multiple future features, however that all depends on feedback and requirements.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=-io-9ec6zdU&"><img src="https://github.com/pranavdg1997/fatafat-cover-letter/blob/main/screenshot.JPG" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=-io-9ec6zdU&"><img src="https://github.com/pranavdg1997/fatafat-cover-letter/blob/main/demo-fast.gif" alt="IMAGE ALT TEXT"></a>
 </div>
 
 ## Step-by-step setup
