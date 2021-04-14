@@ -2,7 +2,7 @@
 This app lets you speed up making your custom cover letter. You can customize & replace Company name and Position in your cover letter. You can also keep track of the companies you have aplied so far.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=-io-9ec6zdU&"><img src="https://github.com/pranavdg1997/visualize_dnn_app/blob/main/screenshot.JPG" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=-io-9ec6zdU&"><img src="https://github.com/pranavdg1997/fatafat-cover-letter/blob/main/screenshot.JPG" alt="IMAGE ALT TEXT"></a>
 </div>
 
 # Step-by-step
