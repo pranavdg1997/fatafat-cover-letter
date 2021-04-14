@@ -33,6 +33,7 @@ streamlit run cover_letter_app.py
  - As per the video, enter company name and profile in the appropriate boxes, press on the button and your new cover letter will be saved to destination as per the config file settings.
  - Please try to build your cover letter based on the template from the sample, it will easier to read.
  - You may need to adjust slider so that the original text and text to be replaced is the same, except for the company_name & profile.
+ - When not using the app, you can refer to the history csv file anytime you need to check your previous applications, it will updated constantly every time you use the app.
 
 
 Please let me know of any issues and contact me on pgujarat@iu.edu for any feedback/suggestions.
