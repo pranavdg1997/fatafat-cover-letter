@@ -20,8 +20,8 @@ After this, edit & set the values in  the config.yml file as follows
 
 Please refer to samples files as well as these sample values for the config.yml file
 ```sh
-parent_filepath: '/Cover_Letter_Sample.docx'
-output_filepath: '/Cover_Letter_Sample_op.docx'
+parent_filepath: 'Cover_Letter_Sample.docx'
+output_filepath: 'Cover_Letter_Sample_op.docx'
 history_file: 'sample_history.csv'
 replace_text: "I am writing regarding the {1} opportunity at {0}. I am due for graduation in May 2021 with a Master's in Data science from XYZ University. As a candidate with over 2 years of experience in the field, as well as a skill-set coherent with the requirements, I believe myself to be a suitable candidate and submit my application for review."
 ```
