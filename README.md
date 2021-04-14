@@ -38,7 +38,7 @@ streamlit run cover_letter_app.py
 ## Possible future features
 I though various features that can be added, since the current ones seem pretty basic. However anything I could think of became too specific and only applicable for certain cases. Some of these are - 
  - Customize which paragraphs to include or not
- - Copy elements to clipbaord
+ - Copy elements to clipbaord (basically you can pre-set different elements to directly copy to your clipboard wit a single click)
  - upload/download cover letter instead of using config file
  - Pipe in key words
  - Similar tool for Resume(will be lot of work though)
