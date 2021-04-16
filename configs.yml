@@ -1,6 +1,6 @@
 
 
-parent_filepath: 'E:/Career documents/Cover_Letter_Pranav_G.docx'
-output_filepath: 'E:/Career documents/Cover_Letter_Pranav_G_curr.docx'
-history_file: 'D:/more ML/cover-letter-shit/history.csv'
-replace_text: "I am writing regarding the {1} opportunity at {0}. I am due for graduation in May 2021 with a Master's in Data science from Indiana University, Bloomington. As a candidate with over 2 years of experience in the field, as well as a skill-set coherent with the requirements, I believe myself to be a suitable candidate and submit my application for review."
+parent_filepath: 'Cover_Letter_Sample.docx'
+output_filepath: 'Cover_Letter_Sample_op.docx'
+history_file: 'sample_history.csv'
+replace_text: "I am writing regarding the {1} opportunity at {0}. I am due for graduation in May 2021 with a Master's in Data science from Some University. As a candidate with over 2 years of experience in the field, as well as a skill-set coherent with the requirements, I believe myself to be a suitable candidate and submit my application for review."
