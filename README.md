@@ -17,7 +17,7 @@ Clone the repository, then proceed to install the requirements with -
 ```sh
 pip install -r requirements.txt
 ```
-After this, edit & set the values in  the config.yml file as follows
+After this, edit & set the values in  the config.yml file as follows (simply open the .yml file with a text editor of your choice)
 - parent_filepath: path to the input docx file
 - output_filepath: path at which the output docx file will be saved
 - history_file: Path to the csv where previous submission will be saved
