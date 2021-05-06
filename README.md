@@ -1,7 +1,9 @@
 
 # Fatafat Cover Letter
-(*fatafat* : Indian slang for quick)\
-This app lets you speed up making your custom cover letter. You can  replace Company name and Position in your cover letter, then proceed to save it to an output file with 1 click.\
+(*fatafat* : Indian slang which means 'quick & easy')\
+QUICK DISCLAIMER : This app needs you to have Python on your system and some very basic programming background to be able to use it seamlessly. It open in your server but runs on your machine, hence a functioning computer is necessary. If you feel this should be hosted online, and made available to non-programmers, the FREE solutions that exist do not guarantee privacy standards, hoever with some investment it can be made into a successfull app)
+
+This app lets you speed up making your custom cover letter. You can replace Company name and Position in your cover letter, then proceed to save it to an output file with 1 click.\
 You can also keep track of the companies you have applied so far with timestamp of application.
 The app has options for multiple future features, however that all depends on feedback and requirements.
 
